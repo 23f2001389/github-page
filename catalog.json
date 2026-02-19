@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "email": "23f2001389@ds.study.iitm.ac.in",
+    "version": "21648dd6"
+  },
+  "products": [
+    {"id":"prod-21648dd6-001","name":"Elite Item 1","category":"clothing","price":293.52,"stock":150,"rating":2.3},
+    {"id":"prod-21648dd6-002","name":"Premium Item 2","category":"home","price":310.36,"stock":71,"rating":2.4},
+    {"id":"prod-21648dd6-003","name":"Premium Item 3","category":"electronics","price":372.15,"stock":48,"rating":4.4},
+    {"id":"prod-21648dd6-004","name":"Premium Item 4","category":"home","price":75.57,"stock":85,"rating":4.7},
+    {"id":"prod-21648dd6-005","name":"Premium Item 5","category":"sports","price":34.75,"stock":31,"rating":3.3},
+    {"id":"prod-21648dd6-006","name":"Standard Item 6","category":"books","price":423.15,"stock":108,"rating":3},
+    {"id":"prod-21648dd6-007","name":"Standard Item 7","category":"books","price":278.7,"stock":164,"rating":4.3},
+    {"id":"prod-21648dd6-008","name":"Premium Item 8","category":"books","price":289.91,"stock":32,"rating":4.7},
+    {"id":"prod-21648dd6-009","name":"Basic Item 9","category":"clothing","price":251.04,"stock":1,"rating":2},
+    {"id":"prod-21648dd6-010","name":"Standard Item 10","category":"clothing","price":303.45,"stock":32,"rating":4.3},
+    {"id":"prod-21648dd6-011","name":"Basic Item 11","category":"clothing","price":172.63,"stock":64,"rating":2.5},
+    {"id":"prod-21648dd6-012","name":"Basic Item 12","category":"clothing","price":183,"stock":170,"rating":1.1},
+    {"id":"prod-21648dd6-013","name":"Basic Item 13","category":"electronics","price":326.16,"stock":89,"rating":1.7},
+    {"id":"prod-21648dd6-014","name":"Basic Item 14","category":"clothing","price":302.88,"stock":112,"rating":3.5},
+    {"id":"prod-21648dd6-015","name":"Elite Item 15","category":"books","price":198.18,"stock":107,"rating":4},
+    {"id":"prod-21648dd6-016","name":"Premium Item 16","category":"home","price":364.89,"stock":135,"rating":2.2}
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 6,
+      "inventoryValue": 130070.32
+    }
+  }
+}
