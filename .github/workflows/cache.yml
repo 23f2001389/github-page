@@ -25,7 +25,7 @@ jobs:
           if [ "${{ steps.cache.outputs.cache-hit }}" = "true" ]; then
             echo "Cache HIT"
           else
-            echo "Cache MISS - priming cache"
+            echo "Cache MISS"
             mkdir -p ~/.cache/demo
             echo "cached data" > ~/.cache/demo/data.txt
           fi
