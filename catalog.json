@@ -22,9 +22,27 @@
     {"id":"prod-21648dd6-016","name":"Premium Item 16","category":"home","price":364.89,"stock":135,"rating":2.2}
   ],
   "aggregations": {
-    "clothing": {
-      "count": 6,
-      "inventoryValue": 130070.32
-    }
+  "clothing": {
+    "count": 6,
+    "inventoryValue": 130070.32
+  },
+  "electronics": {
+    "count": 2,
+    "inventoryValue": 46891.44
+  },
+  "home": {
+    "count": 3,
+    "inventoryValue": 77719.16
+  },
+  "books": {
+    "count": 4,
+    "inventoryValue": 121888.78
+  },
+  "sports": {
+    "count": 1,
+    "inventoryValue": 1077.25
+  }
+}
+
   }
 }
