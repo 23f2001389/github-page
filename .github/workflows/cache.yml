@@ -21,7 +21,6 @@ jobs:
           key: cache-b6bcc33
 
       - name: prime-cache-b6bcc33
-
         run: |
           if [ "${{ steps.cache.outputs.cache-hit }}" = "true" ]; then
             echo "Cache HIT"
